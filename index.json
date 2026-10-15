@@ -1,0 +1,11 @@
+{
+  "org": "jupyterhub",
+  "repo": "ldapauthenticator",
+  "versions": [
+    {
+      "commit": "9d2759a3ca3ab8a311398fbae8f8d4cd114f66b0",
+      "tag": "",
+      "parsed_at": "2026-10-15T09:51:35.328131+00:00"
+    }
+  ]
+}
