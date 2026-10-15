@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jupyterhub/ldapauthenticator/commit/9d2759a3ca3ab8a311398fbae8f8d4cd114f66b0",
       "git:hexsha": "9d2759a3ca3ab8a311398fbae8f8d4cd114f66b0",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/jupyterhub/ldapauthenticator/commit/f3b2db14bfb591df09e05f8922f6041cc9c1b3bd",
